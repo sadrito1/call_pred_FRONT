@@ -1,0 +1,15 @@
+streamlit
+pandas
+xgboost
+holidays
+scikit-learn
+matplotlib
+joblib
+numpy
+matplotlib.pyplot
+seaborn
+streamlit-aggrid
+streamlit-option-menu
+streamlit-lottie
+streamlit-plotly-events
+streamlit-extras
